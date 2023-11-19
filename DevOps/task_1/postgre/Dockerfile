@@ -6,4 +6,3 @@ ENV POSTGRES_PASSWORD=testpassword
 
 EXPOSE 5432
 
-
