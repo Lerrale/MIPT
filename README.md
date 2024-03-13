@@ -1,2 +1,2 @@
 # MIPT
-A collection of tasks solved during training in MFTI
+Collection of tasks solved during the training at MIPT
